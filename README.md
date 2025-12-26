@@ -91,7 +91,7 @@ WHO: European Region (EURO)                  9.87e-08  Yes
 WHO: African region (AFRO)                   1.93e-05  Yes
 WHO: Americas (AMRO)                         3.56e-05  Yes
 WHO: Eastern Mediterranean Region (EMRO)     4.16e-05  Yes
-WHO: South-East Asia region (SEARO)           2.76e-03  Yes
+WHO: South-East Asia region (SEARO)          2.76e-03  Yes
 ```
 
 ## Regional Breakdown (WHO)
