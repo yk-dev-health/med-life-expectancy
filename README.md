@@ -58,7 +58,7 @@ before, during, and after the COVID-19 pandemic.
 Install dependencies:
 
 ```bash
-git clone <repo-url>
+git clone https://github.com/yk-dev-health/med-life-expectancy.git
 pip install -r requirements.txt
 python src/main.py
 ```
@@ -92,6 +92,7 @@ WHO: African region (AFRO)                   1.93e-05  Yes
 WHO: Americas (AMRO)                         3.56e-05  Yes
 WHO: Eastern Mediterranean Region (EMRO)     4.16e-05  Yes
 WHO: South-East Asia region (SEARO)           2.76e-03  Yes
+```
 
 ## Regional Breakdown (WHO)
 - **AFRO (African Region):** Countries in Africa.
@@ -101,7 +102,6 @@ WHO: South-East Asia region (SEARO)           2.76e-03  Yes
 - **SEARO (South-East Asia Region):** South Asian countries.
 - **WPRO (Western Pacific Region):** East Asia and Pacific Islands.
 - **World:** Global data combining all regions.
-```
 
 This summary enables quick identification of regions
 with statistically significant deviations in life expectancy.
